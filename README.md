@@ -1,7 +1,3 @@
-# Practical Exam
-
-We'd like to give you a real-world exercise. Please provide us with the code solution you come up with. If you don't have a final working solution, please show whatever solution you did come up with, what roadblocks there were, etc. The journey can be as important as the destination!
-
 ## Current State
 
 Attached are three files containing three JSON objects:
@@ -25,5 +21,3 @@ Not required, but if you can produce a .json file containing the output of the m
 ## Extra Credit
 
 If you want to dress up the results in a visually pleasing format, feel free! This could be HTML, JSX, (S)CSS, etc.
-
-##### This test is the sole property of EY and may not be shared without EY's express consent. &copy; 2018 All rights reserved.
